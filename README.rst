@@ -15,12 +15,12 @@ Differ
     :target: https://crate.io/packages/differ/
     :alt: Number of PyPI downloads
 
-Python library to calculate differences between objects.
+Python library to calculate the differences between objects.
 
 Right now, it supports calculating differences between objects built
 up of dicts, lists, tuples and base types.
 
-The major advantage compared to other diff tools is it is able to detect
+The major advantage compared to other diff tools is that it's able to detect
 "slightly" changed objects that were repositioned in a list:
 
 .. code-block:: python
